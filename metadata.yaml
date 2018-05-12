@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 18735-h/images/cover_054_1.jpg
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18735#The-Little-Red-HenAn-Old-English-Folk-Tale
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-07-01'
 gutenberg_type: Text
