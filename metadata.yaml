@@ -1,0 +1,30 @@
+_repo: The-Little-Red-HenAn-Old-English-Folk-Tale_18735
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, Florence White
+    birthdate: 1900
+    deathdate: 1953
+    gutenberg_agent_id: '7625'
+    url: http://www.gutenberg.org/2009/agents/7625
+covers:
+- cover_type: archival
+  image_path: 18735-h/images/cover_054_1.jpg
+description: Illustrated by the author.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Chickens -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: 'The Little Red Hen
+
+  An Old English Folk Tale'
+url: http://www.gutenberg.org/ebooks/18735
